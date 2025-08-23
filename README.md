@@ -1,1 +1,1 @@
-# hyperskill-zookeeper-javascirpt
+# Zookeeper (JavaScript) Hyperskill
